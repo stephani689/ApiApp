@@ -24,7 +24,20 @@ Aplikasi katalog produk e-commerce berbasis React Native (Expo) yang mengonsumsi
 - **Tech Stack:** React Native (Expo SDK), JavaScript (ES6+), React Hooks (`useState`, `useEffect`), Native Fetch API.
 
 ##Screenshot hasil
-[Snack Expo](https://snack.expo.dev/@stephanizz/p11))
+##halaman utama
+[Utama](assets/utama.jpeg)
+
+##deskripsi
+[Deskripsi](assets/deskripsi.jpeg)
+
+##Search
+[Search](assets/Search.jpeg)
+
+##Refresh
+[Refresh](assets/Refresh.jpeg)
+
+##Sortby
+[Sortby](assets/Sortby.jpeg)
 
 ##link expo
 [Snack Expo](https://snack.expo.dev/@stephanizz/p11)
