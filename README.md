@@ -25,19 +25,19 @@ Aplikasi katalog produk e-commerce berbasis React Native (Expo) yang mengonsumsi
 
 ##Screenshot hasil
 ##halaman utama
-[Utama](/assets/utama.jpeg)
+![Utama](./assets/utama.jpeg)
 
 ##deskripsi
-[Deskripsi](assets/deskripsi.jpeg)
+![Deskripsi](./assets/deskripsi.jpeg)
 
 ##Search
-[Search](assets/Search.jpeg)
+![Search](./assets/Search.jpeg)
 
 ##Refresh
-[Refresh](assets/Refresh.jpeg)
+![Refresh](./assets/Refresh.jpeg)
 
 ##Sortby
-[Sortby](assets/Sortby.jpeg)
+![Sortby](./assets/Sortby.jpeg)
 
 ##link expo
 [Snack Expo](https://snack.expo.dev/@stephanizz/p11)
