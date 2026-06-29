@@ -25,7 +25,7 @@ Aplikasi katalog produk e-commerce berbasis React Native (Expo) yang mengonsumsi
 
 ##Screenshot hasil
 ##halaman utama
-[Utama](assets/utama.jpeg)
+[Utama](./assets/utama.jpeg)
 
 ##deskripsi
 [Deskripsi](assets/deskripsi.jpeg)
